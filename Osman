@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>متجر M. Osman</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- شريط التنقل -->
+    <header>
+        <div class="logo">M.العثمان</div>
+        <nav>
+            <ul>
+                <li><a href="#">الرئيسية</a></li>
+                <li><a href="#">المنتجات</a></li>
+                <li><a href="#">سلة المشتريات</a></li>
+                <li><a href="#">اتصل بنا</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- قسم البطل (واجهة جذابة) -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1>مرحبًا بك في متجر M. Osman</h1>
+            <p>أفضل المنتجات بأفضل الأسعار، تسوّق الآن!</p>
+            <a href="#" class="btn">خود نظرة</a>
+        </div>
+    </section>
+
+    <!-- قسم المنتجات -->
+    <section class="products">
+        <h2>منتجاتنا المميزة</h2>
+        <div class="product-list">
+            <div class="product">
+                <<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA..." alt="منتج 1">>
+                <h3>منتج 1</h3>
+                <p>السعر: 100$</p>
+                <button>إضافة إلى السلة</button>
+            </div>عثمان
+            <div class="product">
+                <img src="images/product2.jpg" alt="منتج 2">
+                <h3>منتج 2</h3>
+                <p>السعر: 150$</p>
+                <button>إضافة إلى السلة</button>
+            </div>
+            <div class="product">
+                <img src="images/product3.jpg" alt="منتج 3">
+                <h3>منتج 3</h3>
+                <p>السعر: $٥</p>
+                <button>إضافة إلى السلة</button>
+            </div>
+        </div>
+    </section>
+<section class="products">
+    <h2>منتجاتنا المميزة</h2>
+    <div class="product-list">
+        <!-- منتج 1 -->
+        <div class="product">
+            <img src="images/product1.jpg" alt="منتج 1"> <!-- استبدل "product1.jpg" باسم الصورة الفعلي -->
+            <h3>منتج 1</h3>
+            <p>السعر: 100$</p>
+            <button>إضافة إلى السلة</button>
+        </div>
+
+        <!-- منتج 2 -->
+        <div class="product">
+            </>
+            <h3>منتج 2</h3>
+            <p>السعر: 150$</p>
+            <button>إضافة إلى السلة</button>
+        </div>
+
+        <!-- منتج 3 -->
+        <div <clas></clas>s="product">
+            <img src="images/product3.jpg" alt="منتج 3">
+            <h3>منتج 3</h3>
+            <p>السعر: 200$</p>
+            <button>حجز</button>
+        </div>
+    </div>
+</section>
+    <!-- قسم التواصل -->
+    <section class="contact">
+        <h2>تواصل معنا</h2>
+        <p>لأي استفسارات، لا تتردد في الاتصال <p>اتصل بنا على: <a href="tel:+905312143744">+905312143744</a></p>
+    </section>
+
+</body>
+</htm>
